@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.page-content{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 2rem;
+
+}
+button{
+    background: gainsboro;
+    color: lightcoral;
+    padding: 1rem 2rem;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
